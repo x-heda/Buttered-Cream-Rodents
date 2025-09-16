@@ -15,8 +15,8 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
+  title: "Buttered Cream Rodents",
+  url: "https://x-heda.github.io/Buttered-Cream-Rodents/",
   description: `A tool for organizing small ARPGs and species.`
 }
 
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1CxmxE-uyl5iSdHlYbWgJJjQWXAwvuHPblWWqnwM8Zz0",
 
   pages: {
     masterlist:    "masterlist",
